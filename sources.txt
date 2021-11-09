@@ -1,0 +1,45 @@
+Me(warp) stitched the skin SaberStrike together with a bunch of other skins
+
+--VISUALS--
+cat ears in hitcircles based off fcuk+furry+edit (reedkatt skin)
+fail-background - Elite Sakura Miko https://www.youtube.com/watch?v=O_2HnzozHRA&ab_channel=tiannya
+fail-background@2x - Female Knight (Witch Skin) screenshot from Guardian Tales (world 10, level 1, right after harvester boss, playing as female knight with witch skin)
+pause-overlay - Overlord S3 Ep13
+pause-overlay@2x - Usada Pekora https://twitter.com/kaynimatic/status/1294982862710611968 | https://www.dropbox.com/s/c5k04ig1hwm20dt/pekora_transparent.gif?dl=0
+
+(GT miya) menu-back - https://www.reddit.com/r/GuardianTales/comments/jjifrz/so_i_heard_there_will_be_this_new_hero_yeah/
+(GT miya) ranking grades - Excorcist Miya https://heavenhold.com/heroes/miya/
+(GT miya) section-fail - Plitvice https://www.pixiv.net/en/artworks/84926219
+(GT miya) section-pass - Future Princess (link lost, can't even reverse image search. put original img in folder)
+(senko) ranking grades - うゃん senko chibi https://twitter.com/sukemyon_443/status/1118569085049008128?s=19
+(senko) section-fail - senko poggers
+(senko) section-pass - senko not poggers
+(mahiro oyama) ranking grades - mahiro LINE stickers https://store.line.me/stickershop/product/7498580/en
+(mahiro oyama) sectionpass/fail - mahiro LINE stickers https://store.line.me/stickershop/product/7498580/en
+(mahiro oyama) bottom right of scorebar-bg - don't have specific link but its somewhere on https://www.reddit.com/r/OniichanOshimai/
+(shamiko) sectionpass - https://twitter.com/daifuku1116/status/1268187349650792448?s=19
+(shamiko) sectionfail - https://www.pixiv.net/en/artworks/82108561
+
+
+welcome_text - Hayasaka Ai https://www.google.com/search?q=hayasaka+hey+hey&safe=strict&client=opera-gx&hs=xbW&sxsrf=ALeKk01VcyvzUZ9qxu3EDlJvMIsF_5W2Xg:1615101489598&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiF68D00Z3vAhWPyDgGHZnZA6AQ_AUoAXoECAkQAw&biw=1879&bih=1008#imgrc=_tc3cw9GU5iUeM
+
+--AUDIO--
+gameplay from -+Hey+DT
+menu from -# ChillMegumin #-  by RaZoX
+(GT miya) sectionpass is Future Princess from Guardian Tales ("Victory- Boss" voice line)
+(GT miya) sectionfail is Plitvice from Guardian Tales ("Death" voice line)
+(senko) sectionpass is senko saying poggers https://www.youtube.com/watch?v=Daz-SRrHdzk (original deleted https://twitter.com/reiiano/status/1270530075692199936?s=21)
+(senko) sectionfail is senko saying not poggers https://www.youtube.com/watch?v=wmqMr_VfKGM&ab_channel=ACAT (original link deleted)
+(shamiko) sectionpass - shamiko saying fresh peach heart shower https://www.youtube.com/watch?v=26HPFmjlZBg&ab_channel=Loliconics
+(shamiko) sectionfail - shamiko getting angry+whistle noises https://www.youtube.com/watch?v=26HPFmjlZBg&ab_channel=Loliconics
+
+--FONTS--
+Bebas - https://www.dafont.com/bebas.font |default/scoreentry numbers, scorebar-bg, selection-mod(s), selection-mode@2x
+Edo SZ - https://www.dafont.com/edo-sz.font |ranking-perfect
+Impact - |ranking-winner
+Minecraft - https://www.dafont.com/minecraft.font |hit0, hit50, hit100, hit300, menu-back, pause-back, pause-continue, pause-replay, pause-retry, play-skip, ranking-perfect
+minecraft enchantment - https://fontmeme.com/fonts/minecraft-enchantment-font/ |combo, score numbers,
+Road Rage - https://www.dafont.com/road-rage.font |ranking letters,
+
+----
+oldest element in this skin is the minecraft numbers and maybe the buttons
